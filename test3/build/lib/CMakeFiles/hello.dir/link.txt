@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -dynamiclib -Wl,-headerpad_max_install_names -compatibility_version 1.0.0 -current_version 1.2.0 -o libhello.1.2.dylib -install_name /Users/jdnew/develop_workspace/cmake-practice/test3/build/lib/libhello.1.dylib CMakeFiles/hello.dir/hello.o 

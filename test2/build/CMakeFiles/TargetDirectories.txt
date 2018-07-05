@@ -1,0 +1,13 @@
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/CMakeFiles/install/local.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/CMakeFiles/install/strip.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/CMakeFiles/install.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/CMakeFiles/list_install_components.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/CMakeFiles/rebuild_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/CMakeFiles/edit_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/install/local.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/rebuild_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/edit_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/install/strip.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/install.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/list_install_components.dir
+/Users/jdnew/develop_workspace/cmake-practice/test2/build/bin/CMakeFiles/hello.dir

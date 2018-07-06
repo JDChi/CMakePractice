@@ -1,0 +1,5 @@
+/Users/jdnew/develop_workspace/cmake-practice/test6/build/CMakeFiles/rebuild_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test6/build/CMakeFiles/edit_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test6/build/src/CMakeFiles/rebuild_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test6/build/src/CMakeFiles/edit_cache.dir
+/Users/jdnew/develop_workspace/cmake-practice/test6/build/src/CMakeFiles/hello.dir
